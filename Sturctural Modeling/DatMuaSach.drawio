@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
+  <diagram name="Trang-1" id="p-AaW_fg5K8r-M7C0UEP">
+    <mxGraphModel dx="1428" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="jGcpJ4L4iB1kGS2EZdsp-1" target="jGcpJ4L4iB1kGS2EZdsp-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="jGcpJ4L4iB1kGS2EZdsp-4" target="jGcpJ4L4iB1kGS2EZdsp-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-4" value="Khách hàng" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="100" y="394.5" width="210" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-5" value="ID khách hàng = 123" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-4" vertex="1">
+          <mxGeometry y="29" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-6" value="Tên khách hàng = &#39;Nguyễn Văn A&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-4" vertex="1">
+          <mxGeometry y="54" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-7" value="Sách" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="530" y="150" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-8" value="ID sách = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-7" vertex="1">
+          <mxGeometry y="29" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-9" value="Tên sách= &quot;Tấm Cám&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-7" vertex="1">
+          <mxGeometry y="54" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-1" value="Đơn hàng" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="490" y="374" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-2" value="ID đơn hàng = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-1" vertex="1">
+          <mxGeometry y="20" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-3" value="Địa chỉ = &#39;Đại học Bách Khoa Hà Nội&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-1" vertex="1">
+          <mxGeometry y="45" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-28" value="Tổng tiền = 100000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-1" vertex="1">
+          <mxGeometry y="70" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-29" value="Trạng thái = &#39;Chờ xác nhận&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="jGcpJ4L4iB1kGS2EZdsp-1" vertex="1">
+          <mxGeometry y="95" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jGcpJ4L4iB1kGS2EZdsp-30" value="&lt;b&gt;Đặt&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="408" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YENcnbWnRN2riBwVH0MS-1" value="&lt;b&gt;Có chứa&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
