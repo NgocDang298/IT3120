@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="IYYTk_wIb14KXy2D32bW">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNjIT76gMh61DpV5A2En-12" value="Khách hàng" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-13" value="Tên khách hàng = &#39;Nguyễn Văn A&#39;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="FNjIT76gMh61DpV5A2En-12">
+          <mxGeometry y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-15" value="Sản phẩm" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-16" value="ID =1&lt;div&gt;Tên sản phẩm = One Piece&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="FNjIT76gMh61DpV5A2En-15">
+          <mxGeometry y="50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-17" value="Quản lý" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-18" value="Tên quản lý = &#39;Đặng Văn B&#39;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="FNjIT76gMh61DpV5A2En-17">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-19" value="Chi tiết sản phẩm" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-20" value="Nhà sản xuất = Nhà xuất bản Kim Đồng&lt;div&gt;Tên sản phẩm = One Piece&lt;/div&gt;&lt;div&gt;Tập = Tập 1&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="FNjIT76gMh61DpV5A2En-19">
+          <mxGeometry y="50" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNjIT76gMh61DpV5A2En-13" target="FNjIT76gMh61DpV5A2En-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-29" value="xem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FNjIT76gMh61DpV5A2En-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNjIT76gMh61DpV5A2En-16" target="FNjIT76gMh61DpV5A2En-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-30" value="xem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FNjIT76gMh61DpV5A2En-27">
+          <mxGeometry y="-2" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FNjIT76gMh61DpV5A2En-19" target="FNjIT76gMh61DpV5A2En-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNjIT76gMh61DpV5A2En-31" value="Chứa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FNjIT76gMh61DpV5A2En-28">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint x="20" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
