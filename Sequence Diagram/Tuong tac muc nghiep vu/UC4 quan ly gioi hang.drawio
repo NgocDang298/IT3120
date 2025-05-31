@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram id="vrcsqLz8IbyuZ6Ae73qI" name="Page-1">
+    <mxGraphModel dx="788" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="720" as="sourcePoint" />
+            <mxPoint x="220" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-2" value="Sách" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="510.25" y="80" width="99.75" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffffff&#xa;;strokeColor=#36393d;" vertex="1" parent="J1s5yFuD1bMKwYhoHMef-2">
+          <mxGeometry x="33.62" y="200" width="32.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffffff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="203.75" y="230" width="32.5" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-5" value="Hiển thị thồng tin sách trong giỏi hàng cùng các chức năng của giỏi hàng (thành tiền, số lượng,..)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="J1s5yFuD1bMKwYhoHMef-8" target="J1s5yFuD1bMKwYhoHMef-3">
+          <mxGeometry x="-0.0234" y="-10" relative="1" as="geometry">
+            <mxPoint x="543.8699999999999" y="430" as="sourcePoint" />
+            <mxPoint x="236.25" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-6" value="Thêm sách vào giỏi hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="J1s5yFuD1bMKwYhoHMef-4" source="J1s5yFuD1bMKwYhoHMef-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-7" value="Giỏi hàng" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" vertex="1" parent="1">
+          <mxGeometry x="850" y="80" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffffff;strokeColor=#36393d;" vertex="1" parent="J1s5yFuD1bMKwYhoHMef-7">
+          <mxGeometry x="33.75" y="230" width="32.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="J1s5yFuD1bMKwYhoHMef-7">
+          <mxGeometry x="36.25" y="475" width="30" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-13" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="193.75" y="50" width="52.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-15" value="Cập nhật thông tin giỏi hàng" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="J1s5yFuD1bMKwYhoHMef-4" target="J1s5yFuD1bMKwYhoHMef-8">
+          <mxGeometry x="-0.0004" y="15" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="315" />
+              <mxPoint x="650" y="315" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-28" value="Hiển thị lại giỏi hàng sau cập nhật và chi phí dự tính" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" source="J1s5yFuD1bMKwYhoHMef-23" parent="1" target="J1s5yFuD1bMKwYhoHMef-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="600" as="targetPoint" />
+            <mxPoint x="542.06" y="635" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J1s5yFuD1bMKwYhoHMef-24" value="Điều chỉnh số lượng sách mua" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="J1s5yFuD1bMKwYhoHMef-23" parent="1" source="J1s5yFuD1bMKwYhoHMef-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578.1800000000001" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
