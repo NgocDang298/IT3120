@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="qzvqXsZ5ZwBJdFictUcA">
+    <mxGraphModel dx="2276" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="haOm7f1wOpJ_sblqatZK-58" value="Khách Hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="240" width="65" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-59" value="Giỏ hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-60" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" edge="1" parent="1" source="haOm7f1wOpJ_sblqatZK-58" target="haOm7f1wOpJ_sblqatZK-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="460" as="sourcePoint" />
+            <mxPoint x="360" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="249" as="sourcePoint" />
+            <mxPoint x="300" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-68" value="Chọn cập nhật trạng thái đơn hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-69" value="Hiển thị danh sách đơn hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-70" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="150" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="179" as="sourcePoint" />
+            <mxPoint x="300" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-76" value="Chọn xem danh sách đơn hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-77" value="Lưu thông tin thay đổi và thông báo thay đổi thành công" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="370" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haOm7f1wOpJ_sblqatZK-78" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="369" as="sourcePoint" />
+            <mxPoint x="150" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
