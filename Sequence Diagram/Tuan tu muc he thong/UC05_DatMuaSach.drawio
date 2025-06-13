@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="qzvqXsZ5ZwBJdFictUcA">
     <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="cKce5plZVRJmbIAS20uQ-10" value="Hệ thống" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="510" y="80" width="109.75" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="cKce5plZVRJmbIAS20uQ-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffff88;strokeColor=#36393d;" parent="cKce5plZVRJmbIAS20uQ-10" vertex="1">
+        <mxCell id="cKce5plZVRJmbIAS20uQ-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="cKce5plZVRJmbIAS20uQ-10" vertex="1">
           <mxGeometry x="38.62" y="150" width="32.5" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="cKce5plZVRJmbIAS20uQ-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="cKce5plZVRJmbIAS20uQ-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="203.75" y="230" width="32.5" height="410" as="geometry" />
         </mxCell>
         <mxCell id="cKce5plZVRJmbIAS20uQ-13" value="Xác nhận" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="cKce5plZVRJmbIAS20uQ-12" edge="1">
@@ -54,7 +54,7 @@
         <mxCell id="UMYcjgCTO4qiesuA8_Jj-10" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="187.5" y="30" width="65" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="haOm7f1wOpJ_sblqatZK-3" value="Tạo đơn hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="haOm7f1wOpJ_sblqatZK-3" value="Tạo đơn hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="236.25" y="549" as="sourcePoint" />
             <mxPoint x="550" y="549" as="targetPoint" />
@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="haOm7f1wOpJ_sblqatZK-4" value="Thanh toán đơn hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="haOm7f1wOpJ_sblqatZK-4" value="Thanh toán đơn hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="236.25" y="600" as="sourcePoint" />
             <mxPoint x="550" y="600" as="targetPoint" />
